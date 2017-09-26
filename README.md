@@ -14,7 +14,12 @@ Before we get started, here's a quick overview of what you'll need to build the 
 **Electronic Components** In order to build your own Fleet Tracker, you'll need the following items:
 
 * 1x [Twilio Programmable Wireless SIM](https://www.twilio.com/wireless)
-* 1x [Programmable Wireless Fleet Tracker shopping list](#)
+* 1x [Twilio’s Multitech Developer Kit](http://www.semiconductorstore.com/cart/pc/viewPrd.asp?idproduct=70324)
+* 1x [OBD-II adapater](http://www.semiconductorstore.com/cart/pc/viewPrd.asp?idproduct=70343)
+* 1x [GPS antenna](http://www.semiconductorstore.com/cart/pc/viewPrd.asp?idproduct=70343)
+* 1x [RF antenna](http://www.semiconductorstore.com/cart/pc/viewPrd.asp?idproduct=70343)
+* 1x [Arduino Header Pins](https://www.amazon.com/2-54mm-Breakaway-Female-Connector-Arduino/dp/B01MQ48T2V/ref=sr_1_4?ie=UTF8&qid=1505424045&sr=8-4&keywords=arduino+header+pins)
+
 
 # Fleet Tracker Blueprint Development Flow
 Serverless _Twilio Fleet Tracker_ involes 3 separate development process
