@@ -95,4 +95,4 @@ $ ls -lh angular/build/assets/*.{js,html,js.map}
 
 Visit the [Twilio Sync IoT MultiConnect® Dragonfly™ Quickstart](https://www.twilio.com/docs/quickstart/sync-iot/mqtt-multi-tech-multiconnect-dragonfly-sync-iot) to how to get started with Sync for IoT and the MultiConnect®.
 
-That's it! As a reminder, full instructions for this tutorial can be found in the [Fleet Tracker Blueprint](https://www.twilio.com/wireless/blueprints/fleet-tracker/).
+That's it! As a reminder, full instructions can be found in the [Fleet Tracker Blueprint](https://www.twilio.com/wireless/blueprints/fleet-tracker/).
